@@ -34,7 +34,7 @@ h2 {
   border-bottom: 5px solid #8A9A5B;
   padding-bottom: 5px;
   margin-top: 30px;
-  text-align: center;
+  padding: 10px, 20px
 }
 
 button {
@@ -50,4 +50,9 @@ button {
 button:hover {
   background-color: #228B22;
 }
+
+p {
+  padding: 10px 20px;
+}
+
 
