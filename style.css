@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom right, #a8c0ff, #3f2b96);
+  background: linear-gradient(to bottom right, #8A9A5B, #228B22);
   font-family: 'Poppins', sans-serif;
 }    
 
@@ -15,7 +15,7 @@ nav {
   display: flex;
   justify-content: center;
   gap: 15px;
-  background-color: #0077b6;
+  background-color: #8A9A5B;
   padding: 10px;
   border-radius: 10px;
 }
@@ -31,13 +31,13 @@ nav a:hover {
 }
 
 h2 {
-  border-bottom: 2px solid #0077b6;
+  border-bottom: 5px solid #8A9A5B;
   padding-bottom: 5px;
   margin-top: 30px;
 }
 
 button {
-  background-color: #007bff;
+  background-color: #228B22;
   color: white;
   border: none;
   padding: 10px 15px;
@@ -47,6 +47,6 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #228B22;
 }
 
