@@ -1,0 +1,49 @@
+<!-- This is for Styling [404 page] -->
+body {
+  background: linear-gradient(to bottom left, #ADD8E6, #00008B);
+  font-family: 'Poppins', sans-serif;
+}    
+
+
+h1 {
+  text-align: center;
+  }
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  background-color: #00008B;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  border-bottom: 2px solid #0077b6;
+  padding-bottom: 5px;
+  margin-top: 30px;
+}
+
+button {
+  background-color: #8A9A5B;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
