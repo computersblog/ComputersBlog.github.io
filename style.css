@@ -5,7 +5,6 @@ body {
   color: #0a0a0a;
   margin: 0;
   padding: 0;
-  backdrop-filter: blur(30px);
 }
 
 /* === TEXT STYLES === */
@@ -20,7 +19,6 @@ h2 {
   border-bottom: 3px solid rgba(255, 255, 255, 0.5);
   padding-bottom: 10px;
   margin-top: 30px;
-  backdrop-filter: blur(8px);
 }
 
 /* === NAVBAR (floating glass bar) === */
@@ -104,9 +102,9 @@ button:active {
 /* === PARAGRAPHS === */
 p {
   padding: 10px 20px;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(0, 0, 0, 0.85);
   line-height: 1.6;
-  backdrop-filter: blur(4px);
+  /* Removed blur */
 }
 
 /* === FOOTER === */
@@ -114,8 +112,7 @@ p {
   font-family: Arial, sans-serif;
   text-align: center;
   font-size: 0.9rem;
-  color: rgba(0, 0, 0, 0.6);
+  color: rgba(0, 0, 0, 0.65);
   padding: 15px;
-  backdrop-filter: blur(8px);
+  /* Removed blur */
 }
-
