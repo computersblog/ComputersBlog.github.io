@@ -50,7 +50,7 @@ h2 {
   border-bottom: 5px solid #8A9A5B;
   padding-bottom: 5px;
   margin-top: 30px;
-  padding: 10px, 20px
+  padding: 10px, 20px;
 }
 
 button {
@@ -68,7 +68,7 @@ button:hover {
 }
 
 p {
-  padding: 10px 20px;
+  padding: 10px, 20px;
 }
 
 
