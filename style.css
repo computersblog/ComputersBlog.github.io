@@ -1,6 +1,6 @@
 body {
   background: linear-gradient(to bottom right, #8A9A5B, #228B22);
-  font-family: 'Poppins', sans-serif;
+  font-family: "Inter", sans-serif;
 }    
 
 #rights {
@@ -9,6 +9,7 @@ body {
 
 h1 {
   text-align: center;
+  font-family: "Roboto Slab", serif;
   }
 
 nav {
@@ -59,6 +60,7 @@ h2 {
   padding-bottom: 5px;
   margin-top: 30px;
   padding: 10px, 20px;
+  font-family: "Roboto Slab", serif;
 }
 
 button {
