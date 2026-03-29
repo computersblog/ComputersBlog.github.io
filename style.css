@@ -1,3 +1,17 @@
+/* ARCHIVE */
+.archive-banner {
+    background-color: rgb(255, 230, 0);
+    color: rgb(34, 34, 34);
+    font-size: 1.2em;
+    height: 43px;
+    display: flex;
+    align-items
+  
+: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
 /* === BACKGROUND === */
 body {
   background: radial-gradient(circle at top left, #dff4ff 0%, #eaf8ff 40%, #fdfdff 100%);
